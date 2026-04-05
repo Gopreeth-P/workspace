@@ -1,0 +1,5 @@
+---
+triple:          'arm64-apple-darwin'
+binary-path:     '/Users/gopreeth/Documents/GitHub/workspace/Binary_To_Decimal_Calculator'
+relocations:     []
+...
